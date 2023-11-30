@@ -1,5 +1,6 @@
 # Explore-Ecommerce-Dataset
 Use the Google Analytic session data set about ecommerce to practice and improve SQL skills on Google Bigquery with calculation requirements.
+## File code: https://short.com.vn/wJB2
 ## QUERY 1: Calculate total visit, pageview, transaction for Jan, Feb and March 2017
 ### Output:
 ![Query 1](https://github.com/phuonght3001/Explore-Ecommerce-Dataset/assets/150796721/7237d148-2bf8-48fb-b8d2-a63a00a1591c)
